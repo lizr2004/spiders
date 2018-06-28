@@ -1,0 +1,6 @@
+bin/
+lib/
+log/
+include/
+pip-selfcheck.json
+.vscode/
